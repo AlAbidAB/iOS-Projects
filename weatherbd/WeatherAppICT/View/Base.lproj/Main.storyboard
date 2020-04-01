@@ -16,7 +16,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="1300"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Background pdf" translatesAutoresizingMaskIntoConstraints="NO" id="qe6-Cw-DlP">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Background pdf" translatesAutoresizingMaskIntoConstraints="NO" id="qe6-Cw-DlP">
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="1300"/>
                             </imageView>
                             <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="250" translatesAutoresizingMaskIntoConstraints="NO" id="HDb-De-XW4">
@@ -792,7 +792,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Background pdf" translatesAutoresizingMaskIntoConstraints="NO" id="Btb-99-xWf">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Background pdf" translatesAutoresizingMaskIntoConstraints="NO" id="Btb-99-xWf">
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                             </imageView>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="x3y-wB-soT">
@@ -1630,7 +1630,7 @@
         <image name="windmill icon" width="59" height="107"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="bIo-xO-onk"/>
+        <segue reference="L05-ey-2PS"/>
         <segue reference="cId-Bs-XUY"/>
         <segue reference="ppx-ij-6Yn"/>
     </inferredMetricsTieBreakers>
