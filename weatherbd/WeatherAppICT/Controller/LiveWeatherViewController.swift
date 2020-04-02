@@ -338,7 +338,7 @@ class LiveWeatherViewController: UIViewController {
             }
             
             if let pressure = dt.pressure {
-                self.pressureValue.text = String(Int(pressure))
+                self.pressureValue.text = String(Int(pressure)) + " mb"
             }
             
             print("1")

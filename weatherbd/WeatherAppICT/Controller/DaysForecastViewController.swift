@@ -71,7 +71,11 @@ class DaysForecastViewController: UIViewController {
     
     @IBOutlet var mainView: UIView!
     
+    @IBOutlet weak var popupCrossBtn: UIButton!
     
+    @IBAction func popupCrossAction(_ sender: UIButton) {
+        popOverView(status: true)
+    }
     
     var tblSearchResult: UITableView!
     
